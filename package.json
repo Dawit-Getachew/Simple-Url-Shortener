@@ -4,8 +4,7 @@
   "description": "Simple Url Shortener ",
   "main": "index.js",
   "scripts": {
-    "build": "node server.js",
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "Dawit Getachew",
   "license": "ISC",
