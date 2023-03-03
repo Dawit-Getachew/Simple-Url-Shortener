@@ -4,7 +4,7 @@
   "description": "Simple Url Shortener ",
   "main": "index.js",
   "scripts": {
-    "devStart": "nodemon server.js"
+    "start": "nodemon server.js"
   },
   "author": "Dawit Getachew",
   "license": "ISC",
